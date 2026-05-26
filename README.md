@@ -18,6 +18,7 @@
 ## 📂 Repositories
 Projects will appear here. Something is currently in the works.
 
+## 📊 GitHub Stats
 ![Bright Axis GitHub stats](https://github-readme-stats.vercel.app/api?username=axisbright-ux&show_icons=true)
 
 ## 📫 Connect
