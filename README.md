@@ -8,7 +8,7 @@
 - Preparing for university, one year out
 
 ## 🛠️ Toolbox
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white).
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-000000?style=for-the-badge&logo=databricks&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
